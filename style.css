@@ -1,0 +1,39 @@
+body{
+    background-color: #AEDBCE ;
+ 
+    text-align: center;
+}
+.middle-container{
+    background-color: #ffffff ;
+    height: 500px;
+    width: 320px;
+    border-radius: 20px;
+    margin:100px auto auto 600px;
+    box-shadow: 2px 2px 10px 5px grey;  /* top_border left_border blur_parameter blur_radius*/
+    
+
+}
+.heading{
+    font-family: 'Karla', sans-serif;
+    
+    font-size: 1rem;
+    font-weight: bold;
+margin: 0px 35px 10px 35px;
+line-height: 1.5;
+
+
+}
+.qr-cont{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 0.6rem;
+    color:#94B49F;
+    margin: 0px 60px 0px 60px;
+
+
+}
+.qr{
+    width:280px;
+    height: 320px;
+    margin: 18px 20px 0px 20px;
+    border-radius:10px;
+}
